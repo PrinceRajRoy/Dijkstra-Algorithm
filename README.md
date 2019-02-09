@@ -1,6 +1,6 @@
 # Dijkstra-Algorithm
 
-Implementation Of Dijkstra's Algorithm In C.
+Implementation Of Dijkstra's Algorithm In C++ using concept of OOP.
 
 Here dijkstra.txt contains the graph on which the algorithm is applied
 
